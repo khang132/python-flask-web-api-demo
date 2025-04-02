@@ -96,3 +96,4 @@ wheel==0.29.0
 wrapt==1.10.8
 wtf==0.1
 WTForms==2.1
+mysqlclient==2.1.1
