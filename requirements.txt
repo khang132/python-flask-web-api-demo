@@ -1,4 +1,4 @@
-alembic (0.9.1)
+alembic==0.9.1
 aniso8601 (1.2.0)
 appdirs (1.4.3)
 asn1crypto (0.22.0)
