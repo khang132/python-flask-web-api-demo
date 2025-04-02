@@ -59,7 +59,7 @@ paypalrestsdk==1.12.0
 pbr==2.0.0
 Pillow==4.0.0
 pip>=21.0
-ProxyTypes==0.9
+ProxyTypes==0.9.0
 psutil==5.1.3
 pycparser==2.17
 pycrypto==2.6.1
